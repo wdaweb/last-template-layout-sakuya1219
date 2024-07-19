@@ -1,1 +1,1 @@
-使用jQuery、Owl Carousel、ScrollReveal
+jQuery、Owl Carousel、ScrollReveal
